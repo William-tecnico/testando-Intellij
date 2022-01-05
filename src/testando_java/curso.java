@@ -28,10 +28,13 @@ public class curso {
         boolean bo1 = true;
         boolean bo2 = false;
 
+        int a = 15;
+        int b = 5;
 
-        //System.out.println(b + a);
-        //System.out.println(a);
-        //System.out.println("soma de 15 + 5: " + (a+b));
+        System.out.println(b + a);
+        System.out.println(a);
+        System.out.println("soma de 15 + 5= " + (a+b));
+        System.out.println(l1);
 
     }
 }
