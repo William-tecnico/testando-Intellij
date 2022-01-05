@@ -22,11 +22,12 @@ public class curso {
         char c1 = 'A';
         char c2 = 'B';
 
-        String s1 = "aula de string";
-        String s2 = "string 2";
+        String S1 = "aula de string";
+        String S2 = "string 2";
 
         boolean bo1 = true;
-        boolean bo2 = false
+        boolean bo2 = false;
+
 
         //System.out.println(b + a);
         //System.out.println(a);
